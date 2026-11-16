@@ -19,7 +19,7 @@
     "check:bundle": "node scripts/check-candidate.mjs"
   },
   "dependencies": {
-    "pixi.js": "8.22.0"
+    "pixi.js": "8.23.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260823.1",
